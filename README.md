@@ -2,6 +2,8 @@
 
 A premium, high-performance creative agency landing page built with modern web technologies. Featuring smooth scrolling, immersive 3D backgrounds, and sophisticated scroll-triggered animations.
 
+🔗 **[Live Demo](https://aif912752.github.io/nova-agency/)**
+
 ![NOVA Preview](assets/images/hero-bg-main.png)
 
 ## ✨ Features
