@@ -1,0 +1,47 @@
+# Node modules
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build files
+dist/
+build/
+*.min.js
+*.min.css
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional cache
+*.log
+.cache/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Assets (uncomment if you don't want to track assets)
+# assets/images/*
+# !assets/images/.gitkeep
+# assets/fonts/*
+# !assets/fonts/.gitkeep
